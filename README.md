@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hieu Nguyen Le Phi from Ho Chi Minh, Vietnamese who is an Open Source and V Contributor, DevOps enthusiast, Coffe Lover, always learning new things, ready for discussions and making new projects
+I am Hieu Nguyen Le Phi from Ho Chi Minh, Vietnamese who is an Open Source and V Contributor, DevOps enthusiast, Coffee Lover, always learning new things, ready for discussions and making new projects
 
 ![Songhanpoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=songhanpoo&show_icons=true&include_all_commits=true)
 
