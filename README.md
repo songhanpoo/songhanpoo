@@ -28,7 +28,7 @@ I am Hieu Nguyen Le Phi from Ho Chi Minh, Vietnamese who is an Open Source and V
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/google_cloud.png" alt="google cloud logo" width="48">](https://cloud.google.com/)|[<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/grpc.png" alt="grpc" width="48">](https://grpc.io/)|[<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/isitio.png" alt="isitio" width="48">](https://isitio.io/)|[<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/terraform.png" alt="isitio" width="48">](https://terraform.io/) | many more...
+| [<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/aws.png" alt="aws logo" width="48">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/google_cloud.png" alt="google cloud logo" width="96">](https://cloud.google.com/)|[<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/grpc.png" alt="grpc" width="96">](https://grpc.io/)|[<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/isitio.png" alt="isitio" width="48">](https://isitio.io/)|[<img src="https://raw.githubusercontent.com/songhanpoo/songhanpoo/master/img/terraform.png" alt="terraform" width="96">](https://terraform.io/) | many more...
 |---|---|---|---|---|---|
 
 ### Other Accounts 📫
